@@ -10,7 +10,7 @@ ogImage:
   url: 'https://images.unsplash.com/photo-1505682614136-0a12f9f7beea?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&w=627&q=80'
 ---
 
-There are studies, like [this one](https://discovery.ucl.ac.uk/id/eprint/10043048/1/Aste_BlockchainIEEE_600W_v3.3_A.doccceptedVersion.x.pdf), that are trying to map an impact of blockchain on the society already. Most of them focus on the transaction and governance abilities and while these are important, I think that there are some socio-economic implications missing and I'd like to address them in this article.
+There are studies, like ***[this one](https://discovery.ucl.ac.uk/id/eprint/10043048/1/Aste_BlockchainIEEE_600W_v3.3_A.doccceptedVersion.x.pdf)***, that are trying to map an impact of blockchain on the society already. Most of them focus on the transaction and governance abilities and while these are important, I think that there are some socio-economic implications missing and I'd like to address them in this article.
 
 Most important aspects I consider missing are distribution of wealth and related distribution of power. I think that both are intertwined and symptomatic of both is that they don't fit well into "world is simply better with blockchain" simplification. My goal is not to dismiss the positive impact of technology on our lives though, if you look for another Manifesto, you will have to look elsewhere.
 
