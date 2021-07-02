@@ -13,7 +13,7 @@ const CoverImage = ({ title, src, slug }: Props) => {
       src={src}
       alt={`Cover Image for ${title}`}
       className={cn('shadow-small w-full h-96 object-cover rounded-xl filter grayscale', {
-        'hover:shadow-medium transition filter grayscale-0 duration-200': slug,
+        'hover:shadow-medium transition duration-200': slug,
       })}
     />
   )
