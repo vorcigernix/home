@@ -18,7 +18,7 @@ const Index = ({ allPosts }: Props) => {
     <>
       <Layout>
         <Head>
-          <title>Adam Sobotka - Interplanetary Blog</title>
+          <title>Adam's Planet</title>
         </Head>
         <Container>
           <Intro />
